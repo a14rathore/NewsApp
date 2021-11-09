@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Christina Maxouris, CNN",
+            "title": "Kyle Rittenhouse's trial is about to begin. These are the 3 men he shot - CNN",
+            "description": "The man accused of shooting three people -- two fatally -- during protests in Kenosha, Wisconsin, last year will stand trial this month.",
+            "url": "https://www.cnn.com/2021/11/01/us/kyle-rittenhouse-shooting-victims-trial/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211029173854-rittenhouse-victims-shooting-split-super-tease.jpg",
+            "publishedAt": "2021-11-01T12:19:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Toyin Owoseje, CNN",
+            "title": "Kal Penn, 'Harold and Kumar' and 'House' star, comes out as gay - CNN",
+            "description": "The actor and former President Obama adviser Kal Penn has come out as gay, and revealed that he's engaged to be married.",
+            "url": "https://www.cnn.com/2021/11/01/entertainment/kal-penn-gay-intl-scli/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211101051254-actor-kal-penn-new-york-city-031120-file-restricted-super-tease.jpg",
+            "publishedAt": "2021-11-01T12:17:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Josh Alper",
+            "title": "Mike Hilton: I just don’t know what a tackle is anymore - NBC Sports",
+            "description": "Bengals cornerback Mike Hilton was flagged for lowering his helmet to initiate contact on Jets running back Ty Johnson late in the fourth quarter of Sunday’s game and the penalty helped the Jets run out the clock on a 34-31 win. The call generated much critic…",
+            "url": "https://profootballtalk.nbcsports.com/2021/11/01/mike-hilton-i-just-dont-know-what-a-tackle-is-anymore/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2021/11/USATSI_17069473_168393267_lowres-e1635767494972.jpg",
+            "publishedAt": "2021-11-01T11:52:00Z",
+            "content": "Bengals cornerback Mike Hilton was flagged for lowering his helmet to initiate contact on Jets running back Ty Johnson late in the fourth quarter of Sunday’s game and the penalty helped the Jets run … [+1375 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tyler O'Neil",
+            "title": "McAuliffe calls for Virginia to 'diversify' teacher base, citing percentage of White teachers - Fox News",
+            "description": "Virginia Democratic gubernatorial candidate Terry McAuliffe called for the Old Dominion state to “diversify” its teacher base, lamenting that the commonwealth has proportionately more White teachers and promising a program ostensibly aimed at attracting non-W…",
+            "url": "https://www.foxnews.com/politics/mcauliffe-calls-for-virginia-to-diversify-teacher-base-citing-percentage-of-white-teachers",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/c297f618-Terry-McAuliffe.jpg",
+            "publishedAt": "2021-11-01T11:32:55Z",
+            "content": "Virginia\r\nDemocratic\r\ngubernatorial candidate\r\n Terry McAuliffe called for the Old Dominion state to \"diversify\" its teacher base, lamenting that the commonwealth has proportionately more White teach… [+3892 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Southwest Airlines probing pilot's use of anti-Biden phrase on plane's public address system - CBS News",
+            "description": "An AP reporter who was on the flight said there was an \"audible gasp\" from some passengers when the pilot said \"Let's go, Brandon.\"",
+            "url": "https://www.cbsnews.com/news/southwest-airlines-pilot-anti-biden-phrase-lets-go-brandon/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/10/11/01149233-8f09-48f7-988d-3f00da9c6ace/thumbnail/1200x630/f15caddb421905317c5d30dc87979b9c/gettyimages-1235825048.jpg",
+            "publishedAt": "2021-11-01T11:25:18Z",
+            "content": "Southwest Airlines said Sunday it's conducting an internal investigation after one of its pilots used a phrase that's become a stand-in for insulting President Joe Biden during the pilot's greeting t… [+2086 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Caroline Caroline",
+            "title": "Jen Psaki diagnosed with COVID-19 - CBS News",
+            "description": "Psaki said in a statement on Sunday that she last saw President Biden on Tuesday.",
+            "url": "https://www.cbsnews.com/news/jen-psaki-covid-19-diagnosis-white-house-press-secretary/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/10/31/87c8cc8e-ac80-407b-a79c-b3d7dd830367/thumbnail/1200x630/b4896963cf8acf69f3980c7b6b5988e0/gettyimages-1349458657.jpg",
+            "publishedAt": "2021-11-01T11:24:00Z",
+            "content": "White House press secretary Jen Psaki said Sunday that she had tested positive for COVID-19, days after pulling out of the president's overseas trip due to a family emergency. Psaki is vaccinated, an… [+1600 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Arjun Kharpal",
+            "title": "Chinese EV maker Nio's deliveries drop 65% as supply chain issues, manufacturing changes bite - CNBC",
+            "description": "Chinese electric carmaker Nio saw October deliveries fall 65% versus September while rival Li Auto managed to see a month-on-month gain.",
+            "url": "https://www.cnbc.com/2021/11/01/chinese-electric-carmaker-nio-sees-deliveries-drop-in-october.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106824303-1610610800822-gettyimages-1287273801-vcg111307625479.jpeg?v=1610610447",
+            "publishedAt": "2021-11-01T11:23:06Z",
+            "content": "GUANGZHOU, China Nio's deliveries of cars to customers in October fell sharply as supply chain issues and changes to its manufacturing lines impacted the Chinese electric vehicle maker.\r\nThe company'… [+346 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Yaron Steinbuch",
+            "title": "Halnya Hutchins' final words revealed after being shot by Alec Baldwin on 'Rust' set - New York Post ",
+            "description": "Seconds after being shot by Alec Baldwin, cinematographer Halyna Hutchins told a boom operator on the “Rust” movie set, “That was no good. That was no good at all.” Hours later, she was…",
+            "url": "https://nypost.com/2021/11/01/halnya-hutchins-last-words-revealed-after-being-shot-by-alec-baldwin/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/11/exact-words-of-baldwin-and-Halnya-preview-1.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-11-01T11:15:00Z",
+            "content": "Seconds after being shot by Alec Baldwin, cinematographer Halyna Hutchins told a boom operator on the “Rust” movie set, That was no good. That was no good at all. Hours later, she was pronounced dead… [+2102 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "R.J. Anderson",
+            "title": "World Series score: Astros rally vs. Braves in Game 5, stay alive after allowing first-inning grand slam - CBSSports.com",
+            "description": "The Braves were denied the chance to win their first title in 26 years in front of their home fans",
+            "url": "https://www.cbssports.com/mlb/news/world-series-score-astros-rally-vs-braves-in-game-5-stay-alive-after-allowing-first-inning-grand-slam/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/11/01/df5f3163-78f1-4f56-818c-0b021e957667/thumbnail/1200x675/e2bc13f3aeed920253a48b407d403b93/astros-11.png",
+            "publishedAt": "2021-11-01T11:00:00Z",
+            "content": "The Houston Astros fended off elimination on Sunday night and denied the Atlanta Braves the chance to win the 2021 World Series at their home ballpark. The Astros defeated the Atlanta Braves in Game … [+5248 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "UK could take legal action against France over fishing row, says Liz Truss - BBC News",
+            "description": "The foreign secretary accuses France of \"unfair behaviour\" as it warns it could block British boats.",
+            "url": "https://www.bbc.com/news/uk-politics-59117529",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E9E7/production/_121297895_mediaitem121297893.jpg",
+            "publishedAt": "2021-11-01T10:54:11Z",
+            "content": "By Kate WhannelBBC News political reporter\r\nMedia caption, Liz Truss: France has made completely unacceptable threats\r\nThe UK is prepared to take legal action against France over the ongoing row abou… [+3302 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "COVID-19 death toll reaches 5 million worldwide - Fox News",
+            "description": "The global death toll from COVID-19 topped 5 million on Monday, less than two years into a crisis that has not only devastated poor countries but also humbled wealthy ones with first-rate health care systems.",
+            "url": "https://www.foxnews.com/health/covid-19-death-toll-5-million",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/COVIDdoctor.jpg",
+            "publishedAt": "2021-11-01T10:43:31Z",
+            "content": "The global death toll\r\n from COVID-19\r\n topped 5 million on Monday, less than two years into a crisis that has not only devastated poor countries but also humbled wealthy ones with first-rate health … [+6661 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Albert Breer",
+            "title": "MMQB: Saints Beat Tom Brady Again, Familiar-Looking Patriots and More - Sports Illustrated",
+            "description": "How New Orleans built on experience to topple the Buccaneers for a third straight (regular-season) game. Plus, the new Patriots?, the Jets punch above their weight, the Steelers, Titans and everything else from Week 8.",
+            "url": "https://www.si.com/nfl/2021/11/01/mmqb-week-8-saints-beat-tom-brady-patriots-jets-titans-win",
+            "urlToImage": "https://www.si.com/.image/t_share/MTg0OTcyODMzNzM3MTU2MDcx/mmqb-week-8-pj-williams-adrian-phillips-mike-white.jpg",
+            "publishedAt": "2021-11-01T10:34:02Z",
+            "content": "P.J. Williams figured the moment he’d waited for the whole game just wasn’t coming.\r\nHaving played the Tom Brady version of the Buccaneers more than any other team has—the Saints faced them twice in … [+46864 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Jordain Carney",
+            "title": "This week: Democrats prepare to try—again—on Biden's economic package | TheHill - The Hill",
+            "description": "Democrats are set to try, again, this week to advance President Biden’s two-part economic package...",
+            "url": "https://thehill.com/homenews/senate/579346-this-week-democrats-prepare-to-try-again-on-bidens-economic-package",
+            "urlToImage": "https://thehill.com/sites/default/files/bidenpelosi_ap.jpg",
+            "publishedAt": "2021-11-01T10:01:04Z",
+            "content": "Democrats are set to try, again, this week to advance President BidenJoe BidenWhite House unveils strategy for 2050 net-zero goalSouthwest investigating report pilot said 'Let's go Brandon' on flight… [+5930 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/steve-dent",
+            "title": "'5D' storage could fit 500TB on a CD-sized glass disc - Engadget",
+            "description": "Using high-speed lasers, researchers have created \"5D\" data storage technology that could allow 500 TB of data to be written to a CD-sized glass disc..",
+            "url": "https://www.engadget.com/5-d-storage-could-fit-500-tb-on-cd-sized-disc-095039455.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-11/530e3000-3af5-11ec-b79d-a42610881822",
+            "publishedAt": "2021-11-01T09:54:26Z",
+            "content": "Using high-speed lasers, researchers have created \"5D\" data storage technology that could allow 500 TB of data to be written to a CD-sized glass disc, according to the Optica society. The technique u… [+2138 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Mark Thompson, CNN Business",
+            "title": "Barclays CEO quits after investigation into links with Jeffrey Epstein - CNN",
+            "description": "The American chief executive of Barclays, Jes Staley, is stepping down with immediate effect following an investigation by British regulators into his relationship with disgraced financier Jeffrey Epstein, the bank said on Monday.",
+            "url": "https://www.cnn.com/2021/11/01/business/barclays-ceo-jes-staley-epstein/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211101040700-jes-staley-file-2020-super-tease.jpg",
+            "publishedAt": "2021-11-01T09:50:00Z",
+            "content": "London (CNN Business)The American chief executive of Barclays(BCS), Jes Staley, is stepping down with immediate effect following an investigation by British regulators into his relationship with disg… [+4618 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Holly Ellyatt",
+            "title": "Global Covid deaths hit 5 million as pandemic takes staggering toll - CNBC",
+            "description": "More than five million people have died from the coronavirus worldwide, according to data collected by John Hopkins University.",
+            "url": "https://www.cnbc.com/2021/11/01/global-covid-deaths-hit-5-million-as-pandemic-takes-staggering-toll.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106886829-16216259172021-05-21t193603z_1710917280_rc2sjn9mswuy_rtrmadp_0_health-coronavirus-latam.jpeg?v=1621625983",
+            "publishedAt": "2021-11-01T09:42:07Z",
+            "content": "Two women walk next to graves of people who passed away due to the coronavirus disease (COVID-19) at the Parque Taruma cemetery in Manaus, Brazil May 20, 2021.\r\nMore than 5 million people have died f… [+4098 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Following Trump, Republicans push for more poll watchers - NPR",
+            "description": "Normally, more involvement in democracy is a good thing. But officials worry people could be motivated to take their election watcher roles too far.",
+            "url": "https://www.npr.org/2021/11/01/1050563273/republicans-want-more-eyes-on-election-workers-experts-worry-about-their-intent",
+            "urlToImage": "https://media.npr.org/assets/img/2021/10/29/youngkin_wide-9f1be401e3cfb1cd1c198dc627bafdc43032a4dd.jpg?s=1400",
+            "publishedAt": "2021-11-01T09:01:00Z",
+            "content": "Virginia Republican gubernatorial candidate Glenn Youngkin casts his ballot early, in September. Youngkin has walked a tight rope on voting issues ahead of Tuesday's election.\r\nPatrick Semansky/AP\r\nF… [+5127 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ProPublica"
+            },
+            "author": "Caroline Chen,Talia Herman",
+            "title": "Babies Are Dying of Syphilis. It’s 100% Preventable. - ProPublica",
+            "description": "The United States’ inability to curb a treatable sexually transmitted disease shows the failures of a cash-strapped public health system. Increasingly, newborns are paying the price.",
+            "url": "https://www.propublica.org/article/babies-are-dying-of-syphilis-its-100-preventable",
+            "urlToImage": "https://img.assets-c3.propublica.org/images/articles/20211029_syphilis_contact-tracing_talia-herman_hands.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssets&q=90&w=1200&s=4f585fe2e8a4d2e10e096473da303565",
+            "publishedAt": "2021-11-01T09:00:00Z",
+            "content": "ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as theyre published.\r\nThis story was co-published with NPR.\r\nWhen Mai Yang is look… [+31785 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Omkar Godbole",
+            "title": "Bitcoin Eyes Fed Meeting After Biggest Monthly Price Gain Since December 2020 - Yahoo Finance",
+            "description": "Goldman Sachs has pulled forward the timing of the first Fed interest rate hike to July 2022",
+            "url": "https://finance.yahoo.com/news/bitcoin-eyes-fed-meeting-biggest-083546815.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/VN3lgKh7FI0r0ek1NGa44Q--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/293bebc0f39cbda77bc7bcd0cd2f7c85",
+            "publishedAt": "2021-11-01T08:35:46Z",
+            "content": "Bitcoins October rally appears to have put the cryptocurrency on a firm footing ahead of central bank meetings in the U.S., U.K., and Australia to assess the stickiness of inflation and determine pol… [+3085 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Pete Williams",
+            "title": "Supreme Court hears arguments on the restrictive Texas abortion law - NBC News",
+            "description": "Supreme Court to consider fate of Texas abortion law",
+            "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-hears-arguments-restrictive-texas-abortion-law-n1282745",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_43/3515894/211029-womens-march-al-1217.jpg",
+            "publishedAt": "2021-11-01T08:30:00Z",
+            "content": "WASHINGTON The Supreme Court on Monday takes up two challenges to the nation's most restrictive abortion law: the Texas measure that has all but stopped abortions in the state.\r\nThe court's decision … [+3172 chars]"
+        }
+    ]
+}
